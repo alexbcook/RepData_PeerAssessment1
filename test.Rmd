@@ -1,0 +1,9 @@
+# Peer Assignment #1
+
+This R Markdown document contains the code necessary to read, process, and answer the questions for Peer Assignment 1.
+
+## Read the Data (must be contained in your working directory)
+
+```{r}
+act<-read.csv("activity.csv")
+```
